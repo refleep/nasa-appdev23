@@ -1,9 +1,8 @@
 #include <iostream>
+using namespace std;
 
 int main() {
-
-  std::cout << "1\n";
-  std::cout << "2\n";
-  std::cout << "3\n";
-
+  cout << "Hello World!\n";
+  cout << "I am learning C++";
+  return 0;
 }
