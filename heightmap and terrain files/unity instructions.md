@@ -14,7 +14,8 @@
 - left click in the Hierarchy Window > Create > Terrain
 
 4. change the terrain size to be the same as the resolution for `heightmapV2.raw`
-- in the Inspector Window under the drop down “Mesh Resolution (On Terrain Data), change the height and width to the resolution of `heightmapV2.raw` which is **4097x4097**
+- edit the terrain mesh by clicking on it, then in the Inspector Window under Terrain open up Terrain Settings by clicking the 5<sup>th</sub>
+- under the drop down “Mesh Resolution (On Terrain Data), change the height and width to the resolution of `heightmapV2.raw` which is **4097x4097**
 - change the terrain height as you see fit; begin with 275 and work your way down or up
 
 5. import `heightmapV2.raw` onto the terrain
