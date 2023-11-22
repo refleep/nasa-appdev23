@@ -1,3 +1,5 @@
+# NOTICE: THE HEIGHTMAP HAS NOT BEEN MADE, WE STILL NEED TO FIGURE THIS OUT.
+
 # how to make terrain on unity via terrain
 
 ---
