@@ -12,6 +12,8 @@ public class LatLongToCartesianConverter : MonoBehaviour
     public string longitudeFilePath = "path"; // replace "path" with the path of the longitude .csv
     public string outputFilePath = "path"; // replace "path" with the path of the .csv that you will save these coordinates in. to make a new csv file, you need to make an excel file first and then save as a .csv file.
 
+// make sure the paths have double backslashes or the code won't work
+
     public float referenceLatitude = -85.3270888084309f; 
     public float referenceLongitude = 27.2893490192071f;
     public float scaleFactor = 1.0f;
